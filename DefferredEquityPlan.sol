@@ -1,5 +1,7 @@
 pragma solidity ^0.5.0;
-
+/* The fastfoward function and fakenow variable was created for test purposes. 
+    replace fakenow with now and remove the fastforward function after testing 
+*/
 // lvl 3: equity plan
 contract DeferredEquityPlan {
     address human_resources;
