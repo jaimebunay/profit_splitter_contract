@@ -6,7 +6,7 @@ The purpose of this assigment is to develop smart contracts with `Solidity` to a
 * MetaMask
 * Remix IDE
 
-One contract is deployed onto the Kovan testnet to demostrate functionality. It should be noted that once a contract demostrates succesful transactions within the local testnet, it can also be deployed onto the Kovan testnet. All transactions can be reviewed within Remix or MetaMask, but I will [Etherscan](https://kovan.etherscan.io/) to explore how smart contracts behave in a blockchain. 
+One contract is deployed onto the Kovan testnet to demostrate functionality. It should be noted that once a contract demostrates succesful transactions within the local testnet, it can also be deployed onto the Kovan testnet. All transactions can be reviewed within Remix or MetaMask, but I will also use [Etherscan](https://kovan.etherscan.io/) to explore how smart contracts behave in a blockchain. 
 
 The smart contracts used in this assignment serve as demostration for how blockchain technology can be used to increase transparecy, and make accounting and auditing practically automatic. Furthermore, these contracts use constructors to declare state variables. This makes the code reusable and more secure. 
 
